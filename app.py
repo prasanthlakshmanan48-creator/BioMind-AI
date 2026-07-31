@@ -25,7 +25,7 @@ Welcome to **BioMind AI**.
 
 This application helps you:
 
-- 💬 Chat with an AI Healthcare Assistant
+- Chat with an AI Healthcare Assistant
 - 📄 Analyze Medical Reports
 - 🤒 Check Symptoms
 - 🩸 View Healthy Laboratory Ranges
@@ -41,7 +41,7 @@ st.markdown("---")
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    st.info("💬 AI Chat")
+    st.info(" AI Chat")
 
 with col2:
     st.success("📄 Report Analyzer")
